@@ -1,2 +1,2 @@
 # journal
-Journal
+Journal de formation
