@@ -1,4 +1,4 @@
-# Install mySQL on WSL Debian
+﻿# Install mySQL on WSL Debian
 La commande `sudo apt install mysql-server` ne pourra fonctionner avant d'avoir configurer les dépôts spécifiques SQL.
 En outre, la version mySQL 8.0 passe à l'installation, mais impossible ensuite de lancer "sudo service mysql start" > mysql service not recognized.
 On installe donc la version mysql-server-5.7
